@@ -1,0 +1,38 @@
+// Steamless CS Project
+// No-WON / WON2 patch for Players v.2.5
+// October 2005 version D
+// 
+// For detailed server information:
+// www.won2.net
+//
+
+Titan
+{
+	titan.won2.steamlessproject.nl:6003
+}
+
+Auth
+{
+	// As for now (Oct 2005) this server isn't online yet.
+	auth.won2.steamlessproject.nl:7002
+}
+
+Master
+{
+	master.won2.steamlessproject.nl:27010
+	master2.won2.steamlessproject.nl:27010
+	master3.won2.steamlessproject.nl:27010
+	master4.won2.steamlessproject.nl:27010
+}
+
+ModServer
+{
+	mods.won2.steamlessproject.nl:27011
+}
+
+Secure
+{
+	hlauth.won2.steamlessproject.nl:27012
+	hlauth2.won2.steamlessproject.nl:27012
+	hlauth3.won2.steamlessproject.nl:27012
+}
